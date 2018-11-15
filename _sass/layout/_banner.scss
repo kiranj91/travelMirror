@@ -9,7 +9,7 @@
 	#banner {
 		@include vendor('align-items', 'center');
 		/*@include vendor('background-image', 'url("../images/banner.jpg")');*/
-		@include vendor('background', 'url("../images/banner.jpg")');
+		@include vendor('background', 'url("../images/quiraing.jpg")');
 		@include vendor('background-size', 'cover');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
@@ -30,7 +30,7 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('pointer-events', 'none');
-			background-color: _palette(bg);
+			/*background-color: _palette(bg);*/
 			content: '';
 			display: block;
 			height: 100%;
