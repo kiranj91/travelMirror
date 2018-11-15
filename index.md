@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: "Hi, Welcome to Kiran's blog!"
 description: null
-image: assets/images/pic11.jpg
+image: null
 author: null
 show_tile: false
 ---
