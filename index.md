@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, Welcome to Kiran's blog!'
+landing-title: "Hi, Welcome to Kiran's blog!"
 description: null
 image: null
 author: null
