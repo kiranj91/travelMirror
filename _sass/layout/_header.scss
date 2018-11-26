@@ -108,9 +108,9 @@
 						z-index: 1;*/
 						content: "\f0c9";  /* this is your text. You can also use UTF-8 character codes as I do here */
 						font-family: FontAwesome;
-						right:10px;
+						left:90px;
 						position:absolute;
-						font-size: 50px;
+						font-size: 30px;
 						top:0;
 					}
 
@@ -251,4 +251,8 @@
 				}
 			}
 		}
+	}
+
+	#btnMenu:hover {
+		color: #ffffff !important
 	}
