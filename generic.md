@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
+title: Belgium
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/belgium.jpg
 nav-menu: true
 ---
 
