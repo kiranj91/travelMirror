@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Testing
 description: blautrum
 image: assets/images/belgium.jpg
