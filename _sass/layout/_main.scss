@@ -39,3 +39,12 @@
 		color: white !important;
 		box-shadow: inset 0 0 0 2px white !important;
 	}
+
+	#btnStart:hover::after {
+		content: "\f105";  /* this is your text. You can also use UTF-8 character codes as I do here */
+		font-family: FontAwesome;
+		right:10px;
+		position:absolute;
+		font-size: 50px;
+		top:0;
+	}
