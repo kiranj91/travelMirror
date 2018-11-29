@@ -3,7 +3,7 @@ layout: page
 title: Austriaaa
 nav-menu: true
 image: assets/images/austria.jpg
-tile: yes
+show_tile: true
 ---
 
 <!-- Main -->
