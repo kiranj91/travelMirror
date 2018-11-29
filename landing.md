@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Czech Republic
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+image: assets/images/czech.jpg
 nav-menu: true
 ---
 
