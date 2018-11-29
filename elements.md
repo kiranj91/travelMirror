@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Austriaaa
+title: Austria
 nav-menu: true
 image: assets/images/austria.jpg
 show_tile: true
