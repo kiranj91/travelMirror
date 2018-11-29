@@ -1,8 +1,8 @@
 ---
 layout: page
-title: England
+title: France
 description: blautrum
-image: assets/images/england.jpg
+image: assets/images/france.jpg
 nav-menu: true
 show_tile: true
 ---
