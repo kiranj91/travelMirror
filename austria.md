@@ -45,8 +45,8 @@ show_tile: true
 
 <hr class="major" />
 
-<!-- Elements -->
-<h2 id="elements">Austria</h2>
+<!-- Austria -->
+<h2 id="austria">Austria</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
