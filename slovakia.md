@@ -2,7 +2,7 @@
 layout: page
 title: Slovakia
 description: blautrum
-image: assets/images/scotland.jpg
+image: assets/images/slovakia.jpg
 nav-menu: true
 show_tile: true
 ---

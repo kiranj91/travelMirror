@@ -2,7 +2,7 @@
 layout: page
 title: Hungary
 description: blautrum
-image: assets/images/france.jpg
+image: assets/images/hungary.jpg
 nav-menu: true
 show_tile: true
 ---

@@ -15,7 +15,7 @@ author: Kiran Jayaramu
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 15
+tiles-count: 25
 
 # social settings
 500px_url:

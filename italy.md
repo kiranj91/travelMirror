@@ -2,7 +2,7 @@
 layout: page
 title: Italy
 description: blautrum
-image: assets/images/india.jpg
+image: assets/images/italy.jpg
 nav-menu: true
 show_tile: true
 ---
