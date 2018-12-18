@@ -49,15 +49,15 @@
     </div>
 
     {% include footer.html %}
-
+    <a href="#top" class="back-to-top">Nach oben</a>
 </body>
 
 <script>
   $( document).ready( function() {
 
     console.log( "doc is ready...");
-    var back_to_top_button = ['<a href="#top" class="back-to-top">Nach oben</a>'].join("");
-    $( "body").append(back_to_top_button);
+    //var back_to_top_button = [''].join("");
+    //$( "body").append(back_to_top_button);
 
     $(".back-to-top").hide();
 
