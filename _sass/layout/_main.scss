@@ -41,12 +41,13 @@
 	}
 
 	.back-to-top {
-		 background-color: white;
+		 background-color: black;
 		 position: fixed;
 		 bottom:20px;
 		 right:20px;
-		 padding:1em;
+		 padding: 10px 14px 10px 14px;
 		 z-index: 9999;
+		 border-radius: 25px;
 	 }
 /*
 
