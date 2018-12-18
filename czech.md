@@ -1,6 +1,6 @@
 ---
 title: Czech Republic
-layout: landing
+layout: post
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/czech.jpg
 nav-menu: true
