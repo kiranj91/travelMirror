@@ -3,7 +3,7 @@ layout: page
 title: Italy
 description: blautrum
 image: assets/images/italy.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

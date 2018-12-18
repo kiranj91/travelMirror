@@ -3,7 +3,7 @@ layout: page
 title: Luxembourg
 description: blautrum
 image: assets/images/luxembourg.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

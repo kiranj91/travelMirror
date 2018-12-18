@@ -3,7 +3,7 @@ layout: page
 title: Germany
 description: blautrum
 image: assets/images/germany.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

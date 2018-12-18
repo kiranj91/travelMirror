@@ -3,7 +3,7 @@ layout: page
 title: Scotland
 description: blautrum
 image: assets/images/scotland.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

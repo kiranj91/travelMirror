@@ -3,7 +3,7 @@ layout: page
 title: India
 description: blautrum
 image: assets/images/india.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

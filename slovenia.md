@@ -3,7 +3,7 @@ layout: page
 title: Slovenia
 description: blautrum
 image: assets/images/slovenia.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

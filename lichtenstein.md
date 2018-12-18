@@ -3,7 +3,7 @@ layout: page
 title: Lichtenstein
 description: blautrum
 image: assets/images/lichtenstein.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

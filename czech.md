@@ -3,7 +3,7 @@ title: Czech Republic
 layout: post
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/czech.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

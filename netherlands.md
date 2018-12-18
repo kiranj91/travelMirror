@@ -3,7 +3,7 @@ layout: page
 title: Netherlands
 description: blautrum
 image: assets/images/netherlands.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

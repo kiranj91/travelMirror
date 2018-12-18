@@ -3,7 +3,7 @@ layout: page
 title: England
 description: blautrum
 image: assets/images/england.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

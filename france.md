@@ -3,7 +3,7 @@ layout: page
 title: France
 description: blautrum
 image: assets/images/france.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Belgium
 description: Lorem ipsum dolor est
 image: assets/images/belgium.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 

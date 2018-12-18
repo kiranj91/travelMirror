@@ -3,7 +3,7 @@ layout: page
 title: Spain
 description: blautrum
 image: assets/images/spain.jpg
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 
