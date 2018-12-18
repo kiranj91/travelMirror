@@ -177,8 +177,23 @@
         outlineColor : "#666666",
         rollOverColor : "#9EC2F7",
         rollOverOutlineColor : "#000000"
-      }
+      },
+      listeners: [{
+         event: "clickMapObject",
+         method: function(e) {
+
+           // Ignore any click not on area
+           if (e.mapObject.objectType !== "MapArea")
+             return;
+
+           var area = e.mapObject;
+           console.log( "area is...", area);
+
+         }
+       }]
     });
+
+    console.log( "map is...", map);
 
 
   });
