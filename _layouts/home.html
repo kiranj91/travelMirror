@@ -49,7 +49,11 @@
     </div>
 
     {% include footer.html %}
-    <a href="#top" class="back-to-top"><i class=”fa fa-arrow-circle-up”></i></a>
+    <div class="elevator-wrapper">
+        <div class="elevator">
+          <i class="fa fa-chevron-up" aria-hidden="true"></i>
+        </div>
+    </div>
 </body>
 
 <script>
@@ -59,19 +63,19 @@
     //var back_to_top_button = [''].join("");
     //$( "body").append(back_to_top_button);
 
-    $(".back-to-top").hide();
+    $( ".elevator").hide();
 
     // Funktion für das Scroll-Verhalten
   	$(function () {
   		$( window).scroll(function () {
   			if ( $(this).scrollTop() > 100) { // Wenn 100 Pixel gescrolled wurde
-  				$( '.back-to-top').fadeIn();
+  				$( '.elevator').fadeIn();
   			} else {
-  				$( '.back-to-top').fadeOut();
+  				$( '.elevator').fadeOut();
   			}
   		});
 
-  		$( '.back-to-top').click(function ( event) { // Klick auf den Button
+  		$( '.elevator').click(function ( event) { // Klick auf den Button
         event.preventDefault();
         console.log( "clicked..");
   			$( 'body,html').animate({

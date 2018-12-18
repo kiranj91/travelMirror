@@ -41,24 +41,83 @@
 	}
 
 	.back-to-top {
-		 background:red;
 		 position: fixed;
 		 bottom:20px;
 		 right:20px;
 		 padding:1em;
 		 z-index: 9999;
 	 }
+
+
+	 /**
+ * Elevator - Scroll back to top utility CSS
+ */
+.elevator {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  visibility: hidden;
+  background: rgba(0, 0, 0, .7);
+  background-image: none;
+  border-radius: 50%;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .05);
+          box-shadow: 0 0 10px rgba(0, 0, 0, .05);
+  opacity: 0;
+  -webkit-transition: all .3s ease;
+       -o-transition: all .3s ease;
+          transition: all .3s ease;
+}
+.elevator.elevator-is-visible {
+  /* the button becomes visible */
+  visibility: visible;
+  opacity: 1;
+  z-index: 999;
+}
+.elevator .fa {
+  position: relative;
+  top: 12.5px;
+  left: 14.5px;
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+  color: white;
+  -webkit-transition: all .3s ease;
+       -o-transition: all .3s ease;
+          transition: all .3s ease;
+}
+.elevator:hover {
+  background: rgba(0, 0, 0, .8);
+}
+.elevator:hover .fa {
+  top: 5px;
+  color: white;
+}
+@media (max-width: 768px) {
+  .elevator {
+    /* only show elevator on desktop screen */
+    display: none !important;
+  }
+}
 /*
-	 296422E203B73CCBC125825B006294F8
+
+	vwFpePosFpes- 493034058FBD04ECC125836000659D97
+	 296422E203B73CCBC125825B006294F8		missing	14,942
 	 46D2110A8FFFCBC8C125825B006254BE
-	 6D5BFF020C99D86EC125825B006279EE
+	 6D5BFF020C99D86EC125825B006279EE		missing 16,224
 	 71BFA46B3A9F0CE1C125825B0062581E
-	 C68148828A80EF02C125825B00629858
-	 DE25243FCA251A18C125825B006265A0
-	 E0C95A39787A6C55C125825B00627690
-	 E39FD024F3939885C125825B00625B80
+	 C68148828A80EF02C125825B00629858		missing	14,942
+	 DE25243FCA251A18C125825B006265A0   missing	14,942
+	 E0C95A39787A6C55C125825B00627690   missing 16,224
+	 E39FD024F3939885C125825B00625B80		missing 40,202
 	 E8EFFEE20626F798C125825B00630841
-	 F0FE4B1EB4B52BE4C125825B00626903*/
+	 F0FE4B1EB4B52BE4C125825B00626903 	missing 40,202*/
 
 /*
 	#btnStart:hover::after {
