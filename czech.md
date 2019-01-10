@@ -24,7 +24,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="belgium.html" class="image">
-			<img src="assets/images/prague.jpg" alt="" data-position="center center" />
+			<img src="assets/images/prague.jpeg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
