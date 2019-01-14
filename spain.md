@@ -56,7 +56,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="spain.html" class="image">
-			<img src="assets/images/Costa Brava.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/costabrava.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
