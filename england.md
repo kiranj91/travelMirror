@@ -24,7 +24,23 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="belgium.html" class="image">
-			<img src="assets/images/london.jpg" alt="" data-position="center center" />
+			<img src="assets/images/chelsea.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Chelsea vs Newcastle</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="belgium.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="belgium.html" class="image">
+			<img src="assets/images/london.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -40,7 +56,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="belgium.html" class="image">
-			<img src="assets/images/lords.jpg" alt="" data-position="top center" />
+			<img src="assets/images/lords.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -54,30 +70,14 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="belgium.html" class="image">
-			<img src="assets/images/stamfordbridge.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Stamford Bridge</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="belgium.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
   <section>
     <a href="belgium.html" class="image">
-      <img src="assets/images/wembley.jpg" alt="" data-position="top center" />
+      <img src="assets/images/stamfordbridge.jpg" alt="" data-position="top center" />
     </a>
     <div class="content">
       <div class="inner">
         <header class="major">
-          <h3>Wembley</h3>
+          <h3>Stamford Bridge</h3>
         </header>
         <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
         <ul class="actions">
@@ -86,6 +86,38 @@ show_tile: true
       </div>
     </div>
   </section>
+	<section>
+		<a href="belgium.html" class="image">
+			<img src="assets/images/stonehenge.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Stonehenge</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="belgium.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="belgium.html" class="image">
+			<img src="assets/images/wembley.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Wembley</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="belgium.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 <!-- Three -->
